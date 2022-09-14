@@ -1,2 +1,5 @@
 # Hola-Mundo
-tarea tecnicatura
+
+Mi primer repositorio
+
+i'm a Messi lover
